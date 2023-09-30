@@ -1,0 +1,16 @@
+{
+  "name": "@axiomatikos/client",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@axiomatikos/command": "workspace:*"
+  },
+  "keywords": [],
+  "author": "anasyoussef00",
+  "license": "MIT"
+}

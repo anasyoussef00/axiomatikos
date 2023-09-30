@@ -2,7 +2,7 @@
   "name": "axiomatikos",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.ts",
+  "type": "module",
   "scripts": {
     "build": "tsc -p .",
     "dev:start": "ts-node src/",
